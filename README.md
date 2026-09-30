@@ -1,2 +1,1 @@
-# Prueba-practica-l-gica-Steven-Betancourt
-Prueba
+ "Steven2444/SOF-ALGORITMOS-Y-LOGICA-DE-PROGRAMACION"
